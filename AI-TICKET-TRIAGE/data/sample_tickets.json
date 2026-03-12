@@ -1,0 +1,62 @@
+[
+  {
+    "text": "I was charged $49.99 twice for my subscription this month. Please refund the duplicate charge.",
+    "category": "billing",
+    "urgency": "high",
+    "response": "We apologize for the duplicate charge. We have initiated a refund of $49.99 which should appear in 3-5 business days."
+  },
+  {
+    "text": "The dashboard keeps showing a 500 error when I try to export reports.",
+    "category": "technical",
+    "urgency": "high",
+    "response": "We are aware of the export issue and our engineering team is investigating. We will update you within 2 hours."
+  },
+  {
+    "text": "I noticed an unauthorized charge of $299 on my account. I did not make this purchase.",
+    "category": "fraud",
+    "urgency": "critical",
+    "response": "We take unauthorized charges very seriously. We have flagged your account for immediate review by our security team."
+  },
+  {
+    "text": "It would be great if you could add dark mode to the mobile app.",
+    "category": "feature_request",
+    "urgency": "low",
+    "response": "Thank you for the suggestion! We have logged your request for dark mode and shared it with our product team."
+  },
+  {
+    "text": "I want to cancel my subscription and get a full refund. The service has not worked properly.",
+    "category": "refund",
+    "urgency": "normal",
+    "response": "We are sorry to hear about your experience. We have started processing your cancellation and refund request."
+  },
+  {
+    "text": "I cannot log into my account. The password reset email never arrives.",
+    "category": "account",
+    "urgency": "high",
+    "response": "We understand how frustrating login issues can be. We have manually triggered a password reset link to your email."
+  },
+  {
+    "text": "How do I upgrade from the Basic plan to the Pro plan?",
+    "category": "general",
+    "urgency": "low",
+    "response": "To upgrade your plan, go to Settings, then Billing, then Change Plan. You will see all available plans there."
+  },
+  {
+    "text": "My payment failed but the money was deducted from my bank account. Transaction ID: TXN-8834721.",
+    "category": "billing",
+    "urgency": "critical",
+    "response": "We apologize for this issue. We have escalated your case with transaction ID TXN-8834721 for immediate investigation."
+  },
+  {
+    "text": "The API is returning 429 rate limit errors even though I am well under my quota.",
+    "category": "technical",
+    "urgency": "high",
+    "response": "We are investigating reports of incorrect rate limiting. Our infrastructure team is looking into this."
+  },
+  {
+    "text": "Could you add webhook support for real-time event notifications?",
+    "category": "feature_request",
+    "urgency": "normal",
+    "response": "Great suggestion! Webhook support is on our roadmap. We have added your use case to the feature request."
+  }
+]
